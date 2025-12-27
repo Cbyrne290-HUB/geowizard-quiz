@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GeoWiz - An interactive geography quiz to test your knowledge of the world.">
+    <title>GeoWiz | Geography Challenge</title>
+    
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1 id="logo">Geo<span class="highlight">Wiz</span> 🌍</h1>
+        <div id="sound-controls">
+            <button id="sound-btn" class="btn-small" aria-label="Toggle sound">Sound: ON</button>
+        </div>
+    </header>
+
+    <main>
+        <section id="welcome-screen" class="game-area">
+            <h2>Ready to explore the world?</h2>
+            <p>Test your geography knowledge with 20 questions!</p>
+            
+            <form id="username-form">
+                <label for="username">Enter Pilot Name:</label>
+                <input type="text" id="username" name="username" placeholder="e.g. GlobeTrotter" required>
+                <button type="submit" class="btn">Start Flight</button>
+            </form>
+            
+            <button id="rules-btn" class="btn-secondary">How to Play</button>
+        </section>
+
+        <section id="game-screen" class="game-area hide">
+            <div class="hud">
+                <p>Pilot: <span id="user-display">Player</span></p>
+                <p>Streak: <span id="streak-counter">0</span> 🔥</p>
+            </div>
+
+            <div id="question-area">
+                <h2 id="question-text">Question goes here</h2>
+                <div id="image-container" class="hide">
+                    <img id="flag-image" src="" alt="Flag">
+                </div>
+            </div>
+
+            <div id="answer-buttons" class="btn-grid">
+                <button class="btn choice-btn">Choice 1</button>
+                <button class="btn choice-btn">Choice 2</button>
+                <button class="btn choice-btn">Choice 3</button>
+                <button class="btn choice-btn">Choice 4</button>
+            </div>
+
+            <div class="hud bottom-hud">
+                <p>Score: <span id="score">0</span></p>
+                <p>Question: <span id="question-number">1</span>/20</p>
+            </div>
+        </section>
+
+        <section id="end-screen" class="game-area hide">
+            <h2>Journey Complete!</h2>
+            <h3 id="final-message">Well done!</h3>
+            <p>Your Final Score: <span id="final-score">0</span></p>
+            <button id="restart-btn" class="btn">Play Again</button>
+        </section>
+
+        <div id="rules-modal" class="modal hide">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Flight Manual</h2>
+                <ul>
+                    <li>Enter your username to begin.</li>
+                    <li>Answer 20 geography questions.</li>
+                    <li>Green = Correct, Red = Incorrect.</li>
+                    <li>Watch out for Flag questions!</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Copyright © 2023 GeoWiz Project</p>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
