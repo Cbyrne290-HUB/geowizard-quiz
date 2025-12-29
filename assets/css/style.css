@@ -198,37 +198,38 @@ footer {
     font-weight: 700;
 }
 
-/* Styling the Username Input Field */
-input[type="text"] {
-    width: 100%;
-    max-width: 400px; /* Keeps it from getting too wide */
-    padding: 15px 20px;
-    margin: 20px 0;
-    font-size: 1.2rem;
-    font-family: 'Nunito', sans-serif;
-    font-weight: 700;
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    border-radius: 12px;
-    background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
-    color: #1e3c72; /* Dark blue text to match the theme */
-    outline: none;
-    transition: all 0.3s ease;
-    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+/* Styling the Pilot Name Input Box */
+input#username {
+    background-color: rgba(255, 255, 255, 0.9) !important; /* Soft white glass look */
+    color: #1e3c72 !important;            /* Deep blue text for readability */
+    border: 3px solid #4eca72 !important; /* Bold green border to match the button */
+    border-radius: 15px !important;       /* Rounded corners like the rest of the UI */
+    padding: 18px !important;             /* Makes the box taller and "chunkier" */
+    font-size: 1.4rem !important;         /* Large, readable text */
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 800 !important;          /* Extra thick letters */
+    text-align: center !important;        /* Centers the name as you type it */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+    transition: all 0.3s ease !important;
+    width: 100% !important;
+    max-width: 450px !important;          /* Stops it from stretching too wide */
 }
 
-/* Add a vibrant glow when the user clicks inside the input */
-input[type="text"]:focus {
-    border-color: #4eca72; /* Matches your green highlight */
-    box-shadow: 0 0 15px rgba(78, 202, 114, 0.4);
-    background-color: #ffffff;
+/* Effect when you click inside the box to type */
+input#username:focus {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    box-shadow: 0 0 20px #4eca72 !important; /* Green glowing effect */
+    outline: none !important;
 }
 
-/* Styling the "Enter Pilot Name" label */
+/* Styling the "Enter Pilot Name" text above the box */
 label[for="username"] {
-    display: block;
-    font-size: 1.3rem;
-    font-weight: 700;
-    margin-bottom: 5px;
-    color: #ffffff;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+    display: block !important;
+    color: #ffffff !important;
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 15px !important;
+    text-transform: uppercase !important; /* Makes it look like a command */
+    letter-spacing: 1px !important;
 }
