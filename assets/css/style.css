@@ -30,16 +30,19 @@ header {
     color: #4eca72; /* Bright Green */
 }
 
-/* Main Content Area */
+/* Ensure main is a flex container that centers the box */
 main {
     flex: 1;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
     width: 100%;
+    padding: 20px;
 }
 
+/* Ensure the game-area box itself is centered */
 .game-area {
+    margin: 0 auto; /* This is the "magic" line for centering */
     background-color: rgba(255, 255, 255, 0.15); 
     backdrop-filter: blur(10px); 
     padding: 50px; 
@@ -49,7 +52,6 @@ main {
     max-width: 850px; 
     box-shadow: 0 10px 30px rgba(0,0,0,0.4);
     border: 1px solid rgba(255, 255, 255, 0.2);
-    margin: 20px auto;
 }
 /* Hide Class (Used by JS to switch screens) */
 .hide {
