@@ -197,3 +197,38 @@ footer {
     line-height: 1.2;
     font-weight: 700;
 }
+
+/* Styling the Username Input Field */
+input[type="text"] {
+    width: 100%;
+    max-width: 400px; /* Keeps it from getting too wide */
+    padding: 15px 20px;
+    margin: 20px 0;
+    font-size: 1.2rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+    color: #1e3c72; /* Dark blue text to match the theme */
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Add a vibrant glow when the user clicks inside the input */
+input[type="text"]:focus {
+    border-color: #4eca72; /* Matches your green highlight */
+    box-shadow: 0 0 15px rgba(78, 202, 114, 0.4);
+    background-color: #ffffff;
+}
+
+/* Styling the "Enter Pilot Name" label */
+label[for="username"] {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
