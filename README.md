@@ -5,6 +5,28 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 
 ### Project Overview 
 
+Welcome to GeoWiz, an interactive geography quiz designed to make learning about the world engaging and fun.
+
+<img width="1503" height="887" alt="Screenshot 2025-12-30 at 18 19 29" src="https://github.com/user-attachments/assets/f9e9ee96-73e1-4ea4-a4f7-bb5e69f612d7" />
+
+#### Why I Built GeoWiz
+
+The inspiration for this project came from my own interest in global travel and world facts. I realized that many educational quizzes feel dry or like a school test. My goal was to build a "Pilot-themed" experience that feels more like a game than a chore. I wanted to create a clean, vibrant UI that gives the user immediate satisfaction through high-energy colors, sound effects, and a streak system that encourages them to keep playing.
+
+#### The Objective
+
+GeoWiz is built for casual learners and geography enthusiasts. It challenges users to identify world capitals, continents, and flags. By incorporating a "Pilot Name" entry system, I aimed to personalize the experience, making the user feel like they are embarking on a global flight rather than just clicking buttons on a screen.
+
+#### Personal Growth
+
+This project was a significant milestone in my coding journey. It allowed me to move beyond static HTML and CSS into the world of¢¢¢ JavaScript logic. Key challenges I overcame included:
+
+##### Dynamic UI: Learning how to hide and show sections based on user interaction without reloading the page.
+
+##### Array Management: Organizing a large library of questions and ensuring they display correctly with their corresponding images.
+
+##### UX Polish: Fine-tuning the "feel" of the game—ensuring buttons are large enough for mobile users and that feedback (correct/incorrect) is clear and instantaneous.
+
 ### User Experience (UX)
 -Initial Design Concept
 
