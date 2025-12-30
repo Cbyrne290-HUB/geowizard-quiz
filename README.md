@@ -117,12 +117,12 @@ I used the 'Nunito' font family from [Google Fonts](https://fonts.google.com/) f
 ### Headings
 
 ### Logo
-Logo was created with a free tool called [Looka](#https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE) 
+I designed the GeoWiz logo using [Looka](#https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE), an AI-powered branding platform. I chose this specific logo because it perfectly encapsulates the project's identity: a blend of global exploration and "wizard-like" expertise. The clean, modern lines ensure that the brand is recognizable even at small scales, such as a browser favicon or a mobile shortcut. By selecting a logo that mirrors the vibrant green and deep blue of the main UI, I created a cohesive visual link between the "GeoWiz" name and the actual gameplay, helping to establish a professional and polished "game studio" feel from the very first screen.
 
 <img width="145" height="66" alt="Screenshot 2025-12-30 at 22 35 35" src="https://github.com/user-attachments/assets/6bc69e01-3886-442a-a4c2-89add6254052" />
 
 ### Imagery
-
+The imagery in GeoWiz was carefully selected to provide an immersive and educational experience. I used high-quality PNG flag icons to ensure that the primary visual focus—the flags—remains crisp and professional on all screen sizes. To reinforce the "Pilot" theme, I included subtle icon elements like the fire emoji for streaks, which gives the user a sense of "momentum" and fun. I also utilized a "glass-morphism" effect on the main containers, which uses transparency to allow the vibrant background colors to peek through. This creates a layered, modern look that makes the game feel like a high-end mobile application rather than a basic website.
 
 ## Features
 
