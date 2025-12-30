@@ -5,7 +5,7 @@
 GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge of global geography, including capitals, continents, and world flags. This project was built as part of my Milestone 2 project for my Software Development Diploma.
 ## Table of Contents
 
-### Project Overview 
+- [Project Overview](#Project-Overview) 
 
 ### User Experience (UX)
 -Initial Design Concept
