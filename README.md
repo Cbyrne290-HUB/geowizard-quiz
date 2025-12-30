@@ -107,14 +107,17 @@ Warning/Error,Ruby Red,#dc3545,Immediate feedback for incorrect answers.
 Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 
 <img width="1507" height="568" alt="Screenshot 2025-12-30 at 22 03 34" src="https://github.com/user-attachments/assets/df60af94-ee3d-4029-a696-30ad941c42d8" />
+<img width="152" height="56" alt="Screenshot 2025-12-30 at 22 35 51" src="https://github.com/user-attachments/assets/e2b79cd8-d7b3-432f-b02e-955080f0606a" />
 
 ### Fonts
-Fonts: 'Nunito' was chosen for its rounded, friendly look, making the quiz feel like a game rather than a test.
+I used the 'Nunito' font family from [Google Fonts](https://fonts.google.com/) for this project. I chose it because its rounded, modern style gives GeoWiz a friendly "game-app" feel rather than a rigid academic one. More importantly, it offers excellent legibility across different devices. By using a heavy weight (800) for headers and a medium weight for buttons, I created a clear visual hierarchy that helps players read questions and make quick decisions, which is vital for a timed or fast-paced quiz experience.
+<img width="193" height="51" alt="Screenshot 2025-12-30 at 22 35 05" src="https://github.com/user-attachments/assets/050b1f72-2887-4fc8-8fe1-48bc90be18df" />
 
 ### Headings
 
 ### Logo
 Logo was created with a free tool called - [Looka](#https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE) 
+<img width="145" height="66" alt="Screenshot 2025-12-30 at 22 35 35" src="https://github.com/user-attachments/assets/6bc69e01-3886-442a-a4c2-89add6254052" />
 
 ### Imagery
 
