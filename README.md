@@ -125,6 +125,7 @@ Streak Counter: Tracks consecutive correct answers to keep the player engaged.
 
 #### Audio Feedback System
 Audio Feedback: Distinct sounds for correct and incorrect answers to provide a multi-sensory experience.
+
 <img width="131" height="46" alt="Screenshot 2025-12-30 at 19 34 30" src="https://github.com/user-attachments/assets/57968c63-f6d8-49e8-b8fa-cd63747fed9d" />
 <img width="123" height="42" alt="Screenshot 2025-12-30 at 19 34 40" src="https://github.com/user-attachments/assets/42ab6dab-bf4e-4ace-9047-73e26de20de7" />
 
