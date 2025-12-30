@@ -74,6 +74,8 @@ Project Goals
 
 The goal was to create a fun, educational game that is easy to navigate. I wanted the user to feel a sense of progression through a "streak" counter and visual/audio feedback.
 
+<img width="135" height="42" alt="Screenshot 2025-12-30 at 18 27 40" src="https://github.com/user-attachments/assets/9ddd5ded-2e9c-41c5-9d15-430880821cf1" />
+<img width="117" height="41" alt="Screenshot 2025-12-30 at 18 27 52" src="https://github.com/user-attachments/assets/bbda7129-f83f-4fa6-b91c-eb06ccdbafe9" />
 User Stories
 
 As a first-time visitor, I want to easily understand the rules so I can play without confusion.
