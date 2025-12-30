@@ -95,10 +95,15 @@ I selected the color palette for GeoWiz to evoke a sense of adventure and precis
 
 #### Role,Color Name,Hex Code,Purpose
 Background (Top),Deep Navy,#1e3c72,Main brand identity and contrast.
+
 Background (Bottom),Ocean Blue,#2a5298,Adds depth to the UI.
+
 Primary Action,Emerald Green,#4eca72,"Used for ""Start Flight"" and correct answers."
+
 Secondary Action,Slate Blue,#6c757d,"Used for ""How to Play"" and secondary buttons."
+
 Warning/Error,Ruby Red,#dc3545,Immediate feedback for incorrect answers.
+
 Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 
 <img width="1507" height="568" alt="Screenshot 2025-12-30 at 22 03 34" src="https://github.com/user-attachments/assets/df60af94-ee3d-4029-a696-30ad941c42d8" />
