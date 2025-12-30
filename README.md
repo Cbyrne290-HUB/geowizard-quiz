@@ -168,7 +168,7 @@ GitHub: For version control and hosting the live site via GitHub Pages.
 ## Testing
 I performed manual testing throughout the development process: "During testing, I discovered a bug where the flag images were stretching on small screens. I fixed this by applying max-width: 100% and height: auto in the CSS to ensure the flags always maintain their correct proportions."
 
-Validation: All code was passed through the W3C HTML Validator and the JSHint JavaScript Validator to ensure no major errors.
+Validation: All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaScript Validator to ensure no major errors.
 
 Browser Compatibility: Tested the game on Google Chrome and Safari.
 <img width="1728" height="1044" alt="Screenshot 2025-12-30 at 23 50 54" src="https://github.com/user-attachments/assets/7a39274b-f9c7-4fe2-9fef-6d37e3fe87f2" />
