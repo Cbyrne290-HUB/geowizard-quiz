@@ -1,8 +1,8 @@
 # GeoWiz - The World Geography Quiz
-#### GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge of global geography, including capitals, continents, and world flags. This project was built as part of my Milestone 2 project for my Software Development Diploma.
 
 <img width="1368" height="736" alt="Screenshot 2025-12-30 at 18 24 56" src="https://github.com/user-attachments/assets/f888a0e3-71b1-4b7c-abc7-c4534d04ec4c" />
 
+#### GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge of global geography, including capitals, continents, and world flags. This project was built as part of my Milestone 2 project for my Software Development Diploma.
 ## Table of Contents
 
 ### Project Overview 
@@ -76,9 +76,13 @@ The goal was to create a fun, educational game that is easy to navigate. I wante
 
 <img width="135" height="42" alt="Screenshot 2025-12-30 at 18 27 40" src="https://github.com/user-attachments/assets/9ddd5ded-2e9c-41c5-9d15-430880821cf1" />
 <img width="117" height="41" alt="Screenshot 2025-12-30 at 18 27 52" src="https://github.com/user-attachments/assets/bbda7129-f83f-4fa6-b91c-eb06ccdbafe9" />
+
 User Stories
 
 As a first-time visitor, I want to easily understand the rules so I can play without confusion.
+
+<img width="134" height="45" alt="Screenshot 2025-12-30 at 18 29 13" src="https://github.com/user-attachments/assets/d8335e6a-97e7-41ef-be09-e3a8af7c2a39" />
+<img width="284" height="164" alt="Screenshot 2025-12-30 at 18 29 30" src="https://github.com/user-attachments/assets/932d69fa-594d-4da3-b5b6-eaa0941e9b21" />
 
 As a player, I want to know immediately if my answer was right or wrong through colors and sounds.
 
