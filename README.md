@@ -91,7 +91,8 @@ As a competitive player, I want to see my final score so I can try to beat it ne
 ## Design
 
 ### Colour Scheme
-Color Scheme: I chose a dark "Earth" palette (Deep Blues and Greens) to match the geography theme.
+I selected the color palette for GeoWiz to evoke a sense of adventure and precision, fitting for a flight-themed geography game. I used a tool called - [coolors](Coolors.co) to generate a palette that balanced professional "Aviation Blues" with high-energy "Action Greens." The deep blue gradient used for the background represents the sky and sea—the playground of a pilot—while providing enough contrast to make the white text and vibrant buttons pop. By using a consistent set of hex codes, I ensured that the interface feels unified and accessible, reducing eye strain for the player while maintaining a modern "App" aesthetic.
+
 
 ### Fonts
 Fonts: 'Nunito' was chosen for its rounded, friendly look, making the quiz feel like a game rather than a test.
