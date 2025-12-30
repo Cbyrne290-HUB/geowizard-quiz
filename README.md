@@ -70,8 +70,7 @@ My main objective for GeoWiz was to bridge the gap between education and enterta
 
 ##### Responsive Polish: I challenged myself to ensure the "Pilot Console" look remained centered and vibrant on everything from a small smartphone to a large desktop monitor.
 
-<img width="135" height="42" alt="Screenshot 2025-12-30 at 18 27 40" src="https://github.com/user-attachments/assets/9ddd5ded-2e9c-41c5-9d15-430880821cf1" />
-<img width="117" height="41" alt="Screenshot 2025-12-30 at 18 27 52" src="https://github.com/user-attachments/assets/bbda7129-f83f-4fa6-b91c-eb06ccdbafe9" />
+<img width="1368" height="736" alt="Screenshot 2025-12-30 at 18 24 56" src="https://github.com/user-attachments/assets/f888a0e3-71b1-4b7c-abc7-c4534d04ec4c" />
 
 ### User Stories
 
@@ -87,7 +86,7 @@ As a player, I want to know immediately if my answer was right or wrong through 
 
 As a competitive player, I want to see my final score so I can try to beat it next time.
 
-![Uploading Screenshot 2025-12-30 at 19.25.53.png…]()
+<img width="1728" height="961" alt="Screenshot 2025-12-30 at 19 25 53" src="https://github.com/user-attachments/assets/c098cfaf-cea6-482f-8c5d-ec4fce981e31" />
 
 ## Design
 
@@ -98,7 +97,10 @@ Color Scheme: I chose a dark "Earth" palette (Deep Blues and Greens) to match th
 Fonts: 'Nunito' was chosen for its rounded, friendly look, making the quiz feel like a game rather than a test.
 
 ### Headings
+
 ### Logo
+Logo was created with a free tool called - [Looka](#https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE) 
+
 ### Imagery
 
 
@@ -107,14 +109,23 @@ Fonts: 'Nunito' was chosen for its rounded, friendly look, making the quiz feel 
 #### Interactive Pilot Console (Username Entry)
 Username Entry: Personalizes the experience by displaying the player's name throughout the flight.
 
+<img width="849" height="396" alt="Screenshot 2025-12-30 at 19 30 59" src="https://github.com/user-attachments/assets/f2ce2d43-de9d-4317-8635-266c3e76a93a" />
+<img width="220" height="73" alt="Screenshot 2025-12-30 at 19 31 21" src="https://github.com/user-attachments/assets/6321b5f4-5813-4f25-a71f-7b26a660ce9d" />
+
 #### Dynamic Flag Recognition
 Flag Recognition: Specific questions trigger an image display to test visual recognition of world flags.
+<img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 33 19" src="https://github.com/user-attachments/assets/9f020e04-765c-42e0-b0e5-eaf596c58e77" />
+<img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 33 43" src="https://github.com/user-attachments/assets/7a3f117a-844f-4e6d-9089-0f4b59e5e081" />
 
 #### Real-time Score & Streak Tracking
 Streak Counter: Tracks consecutive correct answers to keep the player engaged.
+<img width="174" height="45" alt="Screenshot 2025-12-30 at 19 32 28" src="https://github.com/user-attachments/assets/ddcd15ef-f7ca-43ac-992e-adfb22f828c8" />
+<img width="151" height="55" alt="Screenshot 2025-12-30 at 19 32 37" src="https://github.com/user-attachments/assets/3299a4ee-2719-455f-8aac-3d8d0977e1c4" />
 
 #### Audio Feedback System
 Audio Feedback: Distinct sounds for correct and incorrect answers to provide a multi-sensory experience.
+<img width="131" height="46" alt="Screenshot 2025-12-30 at 19 34 30" src="https://github.com/user-attachments/assets/57968c63-f6d8-49e8-b8fa-cd63747fed9d" />
+<img width="123" height="42" alt="Screenshot 2025-12-30 at 19 34 40" src="https://github.com/user-attachments/assets/42ab6dab-bf4e-4ace-9047-73e26de20de7" />
 
 #### Future Features 
 "In a future version of GeoWiz, I plan to add a global leaderboard using a database so players can compare their flight scores with others around the world."
