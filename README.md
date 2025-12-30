@@ -119,6 +119,7 @@ Flag Recognition: Specific questions trigger an image display to test visual rec
 
 #### Real-time Score & Streak Tracking
 Streak Counter: Tracks consecutive correct answers to keep the player engaged.
+
 <img width="174" height="45" alt="Screenshot 2025-12-30 at 19 32 28" src="https://github.com/user-attachments/assets/ddcd15ef-f7ca-43ac-992e-adfb22f828c8" />
 <img width="151" height="55" alt="Screenshot 2025-12-30 at 19 32 37" src="https://github.com/user-attachments/assets/3299a4ee-2719-455f-8aac-3d8d0977e1c4" />
 
