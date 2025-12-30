@@ -113,7 +113,6 @@ Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 I used the 'Nunito' font family from [Google Fonts](https://fonts.google.com/) for this project. I chose it because its rounded, modern style gives GeoWiz a friendly "game-app" feel rather than a rigid academic one. More importantly, it offers excellent legibility across different devices. By using a heavy weight (800) for headers and a medium weight for buttons, I created a clear visual hierarchy that helps players read questions and make quick decisions, which is vital for a timed or fast-paced quiz experience.
 
 <img width="193" height="51" alt="Screenshot 2025-12-30 at 22 35 05" src="https://github.com/user-attachments/assets/050b1f72-2887-4fc8-8fe1-48bc90be18df" />
-
 ### Headings
 I used a clear heading hierarchy to make GeoWiz easy to navigate. By using extra-bold titles for the "Pilot Console" and smaller subheadings for stats, I created a visual path for the player to follow. I stuck to proper HTML tags <h1> through <h3> to keep the layout organized and ensure the game is accessible for screen readers. This keeps the interface looking professional while making sure the questions and scores always stand out.
 
