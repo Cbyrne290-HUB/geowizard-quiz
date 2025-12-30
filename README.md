@@ -48,25 +48,27 @@ My main objective for GeoWiz was to bridge the gap between education and enterta
 
 #### User Experience Goals
 
-Gamified Learning: I wanted to make geography engaging. By adding "Pilot" names and streaks, I aimed to give players a sense of progress and accomplishment.
+##### Gamified Learning: I wanted to make geography engaging. By adding "Pilot" names and streaks, I aimed to give players a sense of progress and accomplishment.
 
 <img width="847" height="150" alt="Screenshot 2025-12-30 at 19 10 06" src="https://github.com/user-attachments/assets/5474c6b3-1915-4d16-b965-da80a569cb6d" />
 <img width="135" height="42" alt="Screenshot 2025-12-30 at 18 27 40" src="https://github.com/user-attachments/assets/9ddd5ded-2e9c-41c5-9d15-430880821cf1" />
 
-Intuitive Design: I focused on building a UI that needs no instructions. A user should be able to start their "flight" within seconds of landing on the page.
+##### Intuitive Design: I focused on building a UI that needs no instructions. A user should be able to start their "flight" within seconds of landing on the page.
+
 <img width="1503" height="887" alt="Screenshot 2025-12-30 at 18 19 29" src="https://github.com/user-attachments/assets/41bf6f6e-9aaa-4838-b525-c3897a0b9d74" />
 
-Instant Feedback: It was important that the game felt responsive. I used clear color cues (green for correct, red for wrong) to provide immediate learning moments.
+##### Instant Feedback: It was important that the game felt responsive. I used clear color cues (green for correct, red for wrong) to provide immediate learning moments.
+
 <img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 18 34" src="https://github.com/user-attachments/assets/4c27773f-1f0f-4722-bc8e-a3fccda08026" />
 <img width="1728" height="966" alt="Screenshot 2025-12-30 at 19 19 24" src="https://github.com/user-attachments/assets/b1f25e04-703f-4915-b7bf-6e51eb420b09" />
 
 #### Technical & Learning Goals
 
-Dynamic Content: A key goal was mastering JavaScript DOM manipulation to swap screens and update questions without the page ever having to refresh.
+##### Dynamic Content: A key goal was mastering JavaScript DOM manipulation to swap screens and update questions without the page ever having to refresh.
 
-Clean Data Logic: I wanted to practice organizing question arrays so that images, choices, and answers stay perfectly synced throughout the 20-question loop.
+##### Clean Data Logic: I wanted to practice organizing question arrays so that images, choices, and answers stay perfectly synced throughout the 20-question loop.
 
-Responsive Polish: I challenged myself to ensure the "Pilot Console" look remained centered and vibrant on everything from a small smartphone to a large desktop monitor.
+##### Responsive Polish: I challenged myself to ensure the "Pilot Console" look remained centered and vibrant on everything from a small smartphone to a large desktop monitor.
 
 <img width="135" height="42" alt="Screenshot 2025-12-30 at 18 27 40" src="https://github.com/user-attachments/assets/9ddd5ded-2e9c-41c5-9d15-430880821cf1" />
 <img width="117" height="41" alt="Screenshot 2025-12-30 at 18 27 52" src="https://github.com/user-attachments/assets/bbda7129-f83f-4fa6-b91c-eb06ccdbafe9" />
@@ -80,8 +82,12 @@ As a first-time visitor, I want to easily understand the rules so I can play wit
 
 As a player, I want to know immediately if my answer was right or wrong through colors and sounds.
 
+<img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 18 34" src="https://github.com/user-attachments/assets/4c27773f-1f0f-4722-bc8e-a3fccda08026" />
+<img width="1728" height="966" alt="Screenshot 2025-12-30 at 19 19 24" src="https://github.com/user-attachments/assets/b1f25e04-703f-4915-b7bf-6e51eb420b09" />
+
 As a competitive player, I want to see my final score so I can try to beat it next time.
 
+![Uploading Screenshot 2025-12-30 at 19.25.53.png…]()
 
 ## Design
 
