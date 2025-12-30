@@ -6,6 +6,14 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 ## Table of Contents
 
 - [Project Overview](#Project-Overview) 
+- [User Experience](#User-Experience)
+- [Design](#Design)
+- [Features](#Features)
+- [Functionality](#Functionlity) 
+- [Technology Used](#Technology) 
+- [Testing and Validation](#Testing) 
+- [Deployment](#Deployment) 
+- [Credits & Acknowledgments](#Credits) 
 
 ### User Experience (UX)
 -Initial Design Concept
@@ -13,6 +21,8 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 -User Stories
 
 -Color Palette & Typography
+
+### Design
 
 ### Features
 
@@ -28,7 +38,9 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 
 -Future Features 
 
-### Technologies Used
+### Functionality
+
+### Technology Used
 
 ### Testing & Validation
 
