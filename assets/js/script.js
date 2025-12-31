@@ -78,9 +78,8 @@ function startGame(event) {
 
 // 2. Show Question
 function showQuestion() {
-    resetState(); // Clear previous colors
+    resetState(); 
 
-    // Check if game is over
     if (currentQuestionIndex >= shuffledQuestions.length) {
         endGame();
         return;
@@ -88,11 +87,9 @@ function showQuestion() {
 
     let currentQuestion = shuffledQuestions[currentQuestionIndex];
     
-    // Set Question Text
     document.getElementById("question-text").innerText = currentQuestion.question;
     document.getElementById("question-number").innerText = currentQuestionIndex + 1;
 
-    // Handle Image (If question has one)
     let imgContainer = document.getElementById("image-container");
     let imgElement = document.getElementById("flag-image");
     
@@ -103,12 +100,14 @@ function showQuestion() {
         imgContainer.classList.add("hide");
     }
 
-    // Set Buttons
-    let buttons = document.getElementsByClassName("choice-btn");
-    for (let i = 0; i < buttons.length; i++) {
-        buttons[i].innerText = currentQuestion.answers[i];
-        buttons[i].onclick = function() { selectAnswer(i, currentQuestion.correct, this); };
-    }
+    // Set Buttons using forEach to avoid the JSHint loop warning
+    let buttons = Array.from(document.getElementsByClassName("choice-btn"));
+    buttons.forEach((btn, i) => {
+        btn.innerText = currentQuestion.answers[i];
+        btn.onclick = () => {
+            selectAnswer(i, currentQuestion.correct, btn);
+        };
+    });
 }
 
 // 3. Reset Button Styles
