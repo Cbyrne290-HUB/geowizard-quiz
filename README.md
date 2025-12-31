@@ -127,9 +127,8 @@ Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 * The imagery in GeoWiz was carefully selected to provide an immersive and educational experience. I used high-quality PNG flag icons to ensure that the primary visual focus—the flags—remains crisp and professional on all screen sizes. To reinforce the "Pilot" theme, I included subtle icon elements like the fire emoji for streaks, which gives the user a sense of "momentum" and fun. I also utilized a "glass-morphism" effect on the main containers, which uses transparency to allow the vibrant background colors to peek through. This creates a layered, modern look that makes the game feel like a high-end mobile application rather than a basic website.
 
 ### Wireframes
-
-##### Landing page
-
+#### Landing page
+##### I created wireframes for laptop, tablet and mobile to ensure a responsive design that provides seamless, user-friendly experience across all screen sizes.
 * **Laptop**
 <img width="721" height="532" alt="Screenshot 2025-12-31 at 02 41 43" src="https://github.com/user-attachments/assets/7bd72615-3847-4da0-959c-139fb87d1889" />
 
@@ -143,30 +142,30 @@ Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 ## Features
 
 #### Interactive Pilot Console (Username Entry)
-Username Entry: Personalizes the experience by displaying the player's name throughout the flight.
+* Username Entry: Personalizes the experience by displaying the player's name throughout the flight.
 
 <img width="849" height="396" alt="Screenshot 2025-12-30 at 19 30 59" src="https://github.com/user-attachments/assets/f2ce2d43-de9d-4317-8635-266c3e76a93a" />
 <img width="220" height="73" alt="Screenshot 2025-12-30 at 19 31 21" src="https://github.com/user-attachments/assets/6321b5f4-5813-4f25-a71f-7b26a660ce9d" />
 
 #### Dynamic Flag Recognition
-Flag Recognition: Specific questions trigger an image display to test visual recognition of world flags.
+* Flag Recognition: Specific questions trigger an image display to test visual recognition of world flags.
 <img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 33 19" src="https://github.com/user-attachments/assets/9f020e04-765c-42e0-b0e5-eaf596c58e77" />
 <img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 33 43" src="https://github.com/user-attachments/assets/7a3f117a-844f-4e6d-9089-0f4b59e5e081" />
 
 #### Real-time Score & Streak Tracking
-Streak Counter: Tracks consecutive correct answers to keep the player engaged.
+* Streak Counter: Tracks consecutive correct answers to keep the player engaged.
 
 <img width="174" height="45" alt="Screenshot 2025-12-30 at 19 32 28" src="https://github.com/user-attachments/assets/ddcd15ef-f7ca-43ac-992e-adfb22f828c8" />
 <img width="151" height="55" alt="Screenshot 2025-12-30 at 19 32 37" src="https://github.com/user-attachments/assets/3299a4ee-2719-455f-8aac-3d8d0977e1c4" />
 
 #### Audio Feedback System
-Audio Feedback: Distinct sounds for correct and incorrect answers to provide a multi-sensory experience.
+* Audio Feedback: Distinct sounds for correct and incorrect answers to provide a multi-sensory experience.
 
 <img width="131" height="46" alt="Screenshot 2025-12-30 at 19 34 30" src="https://github.com/user-attachments/assets/57968c63-f6d8-49e8-b8fa-cd63747fed9d" />
 <img width="123" height="42" alt="Screenshot 2025-12-30 at 19 34 40" src="https://github.com/user-attachments/assets/42ab6dab-bf4e-4ace-9047-73e26de20de7" />
 
 #### Future Features 
-"In a future version of GeoWiz, I plan to add a global leaderboard using a database so players can compare their flight scores with others around the world."
+* "In a future version of GeoWiz, I plan to add a global leaderboard using a database so players can compare their flight scores with others around the world."
 
 
 ## Technologies Used
