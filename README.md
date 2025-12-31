@@ -209,12 +209,24 @@ The live link can be found at the top of the Pages section.
 <img width="788" height="179" alt="Screenshot 2025-12-31 at 01 11 29" src="https://github.com/user-attachments/assets/225720d3-a550-4833-8d93-56bda3fb77d0" />
 
 ## Credits
-Images: Flag icons were sourced from Pixabay.
+Images: Flag icons were sourced from [Pixabay](https://pixabay.com/)
 
-Audio: Sound effects were sourced from Pixabay's Royalty-Free library.
+<img width="242" height="240" alt="Screenshot 2025-12-31 at 01 35 04" src="https://github.com/user-attachments/assets/9d4cb8f7-5b90-4ef8-a41e-d61dd179a64a" />
 
-Code: Inspiration for the quiz logic came from course materials and documentation on MDN Web Docs.
+Audio: Sound effects were sourced from [Pixabay's Royalty-Free library](https://pixabay.com/music/)
 
-fonts: 'Nunito' via Google Fonts.
+<img width="242" height="240" alt="Screenshot 2025-12-31 at 01 35 04" src="https://github.com/user-attachments/assets/269e403a-c751-4f2f-ba89-fb299f028c13" />
 
-Colour Scheme: Generated via Coolors.co
+Code: Inspiration for the quiz logic came from course materials and course examples.
+
+fonts: 'Nunito' via [Google Fonts](https://fonts.google.com/)
+
+<img width="193" height="51" alt="Screenshot 2025-12-30 at 22 35 05" src="https://github.com/user-attachments/assets/48760970-d80f-4f27-b98b-58d526dc42cd" />
+
+Colour Scheme: Generated via [Coolors](Coolors.co)
+
+<img width="152" height="56" alt="Screenshot 2025-12-30 at 22 35 51" src="https://github.com/user-attachments/assets/065a90f5-a612-40b5-ac9e-d9cfff22230b" />
+
+Logo: Created using [Looka](https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE)
+
+<img width="145" height="66" alt="Screenshot 2025-12-30 at 22 35 35" src="https://github.com/user-attachments/assets/eace1d72-d721-4f4b-9e09-47ea985cdb7a" />
