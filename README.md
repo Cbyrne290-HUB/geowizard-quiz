@@ -170,6 +170,7 @@ I performed manual testing throughout the development process: "During testing, 
 
 Validation: All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaScript Validator to ensure no major errors.
 
+<img width="1498" height="630" alt="Screenshot 2025-12-31 at 00 51 46" src="https://github.com/user-attachments/assets/a42b78bf-3a09-4bee-879d-77d9cdad7db0" />
 <img width="1471" height="211" alt="Screenshot 2025-12-30 at 23 56 56" src="https://github.com/user-attachments/assets/e156fc82-0943-4567-8980-d5d7e0fcfb5f" />
 
 Browser Compatibility: Tested the game on Google Chrome and Safari.
@@ -214,5 +215,6 @@ Audio: Sound effects were sourced from Pixabay's Royalty-Free library.
 
 Code: Inspiration for the quiz logic came from course materials and documentation on MDN Web Docs.
 
-fonts:
-Colour Scheme:
+fonts: 'Nunito' via Google Fonts.
+
+Colour Scheme: Generated via Coolors.co
