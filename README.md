@@ -170,6 +170,8 @@ I performed manual testing throughout the development process: "During testing, 
 
 Validation: All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaScript Validator to ensure no major errors.
 
+<img width="1471" height="211" alt="Screenshot 2025-12-30 at 23 56 56" src="https://github.com/user-attachments/assets/e156fc82-0943-4567-8980-d5d7e0fcfb5f" />
+
 Browser Compatibility: Tested the game on Google Chrome and Safari.
 <img width="1728" height="1044" alt="Screenshot 2025-12-30 at 23 50 54" src="https://github.com/user-attachments/assets/7a39274b-f9c7-4fe2-9fef-6d37e3fe87f2" />
 <img width="1728" height="1038" alt="Screenshot 2025-12-30 at 23 52 16" src="https://github.com/user-attachments/assets/e15a0a9e-7093-4481-8823-7ee884b274ab" />
