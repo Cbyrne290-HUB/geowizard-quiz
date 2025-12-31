@@ -205,9 +205,10 @@ I scored all (100's) on the laptops performace, accessibility, SEO and best prac
 <img width="1728" height="1038" alt="Screenshot 2025-12-30 at 23 52 16" src="https://github.com/user-attachments/assets/e15a0a9e-7093-4481-8823-7ee884b274ab" />
 
 ### Device Testing: 
-Verified that the buttons and images scale correctly on all devices like the imac,macbook,ipad and iphone all came back with images and buttons working perfectly. 
+* Verified that the buttons and images scale correctly on all devices like the imac,macbook,ipad and iphone all came back with images and buttons working perfectly. 
 <img width="1368" height="736" alt="Screenshot 2025-12-30 at 18 24 56" src="https://github.com/user-attachments/assets/f888a0e3-71b1-4b7c-abc7-c4534d04ec4c" />
-Edge Case Testing: Tried to start the game without a name; the system correctly blocked this and alerted me.
+
+* Edge Case Testing: Tried to start the game without a name; the system correctly blocked this and alerted me.
 <img width="1503" height="882" alt="Screenshot 2025-12-30 at 23 44 21" src="https://github.com/user-attachments/assets/abc2c0d5-f7a8-4bd6-8e7e-386e91e9d1c2" />
 
 ## Deployment
