@@ -187,6 +187,7 @@ The project was deployed using GitHub Pages.
 <img width="55" height="48" alt="Screenshot 2025-12-31 at 01 17 01" src="https://github.com/user-attachments/assets/03755714-f21f-4856-9a2b-6966c2c40de7" />
 
 Log in to GitHub and locate the repository.
+
 <img width="398" height="625" alt="Screenshot 2025-12-31 at 01 02 10" src="https://github.com/user-attachments/assets/f85d942f-1c90-4fd4-830b-55ef9d81afed" />
 <img width="140" height="33" alt="Screenshot 2025-12-31 at 01 03 18" src="https://github.com/user-attachments/assets/515a2614-5bbb-4dc6-aed9-95bc2e31a4aa" />
 
