@@ -31,7 +31,7 @@ GeoWiz is built for casual learners and geography enthusiasts. It challenges use
 
 #### Personal Growth
 
-This project was a significant milestone in my coding journey. It allowed me to move beyond static HTML and CSS into the world of¢¢¢ JavaScript logic. Key challenges I overcame included:
+This project was a significant milestone in my coding journey. It allowed me to move beyond static HTML and CSS into the world of JavaScript logic. Key challenges I overcame included:
 
 ##### Dynamic UI: Learning how to hide and show sections based on user interaction without reloading the page.
 
