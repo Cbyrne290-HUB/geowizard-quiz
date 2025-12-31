@@ -2,7 +2,8 @@
 
 <img width="1368" height="736" alt="Screenshot 2025-12-30 at 18 24 56" src="https://github.com/user-attachments/assets/f888a0e3-71b1-4b7c-abc7-c4534d04ec4c" />
 
-GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge of global geography, including capitals, continents, and world flags. This project was built as part of my Milestone 2 project for my Software Development Diploma.
+* GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge of global geography, including capitals, continents, and world flags. This project was built as part of my Milestone 2 project for my Software Development Diploma.
+
 ## Table of Contents
 
 - [Project Overview](#Project-Overview) 
@@ -17,34 +18,34 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 
 ## Project Overview
 
-* Welcome to GeoWiz, an interactive geography quiz designed to make learning about the world engaging and fun.**
+* Welcome to GeoWiz, an interactive geography quiz designed to make learning about the world engaging and fun.
 
 <img width="1503" height="887" alt="Screenshot 2025-12-30 at 18 19 29" src="https://github.com/user-attachments/assets/f9e9ee96-73e1-4ea4-a4f7-bb5e69f612d7" />
 
 #### Why I Built GeoWiz
 
-The inspiration for this project came from my own interest in global travel and world facts. I realized that many educational quizzes feel dry or like a school test. My goal was to build a "Pilot-themed" experience that feels more like a game than a chore. I wanted to create a clean, vibrant UI that gives the user immediate satisfaction through high-energy colors, sound effects, and a streak system that encourages them to keep playing.
+* The inspiration for this project came from my own interest in global travel and world facts. I realized that many educational quizzes feel dry or like a school test. My goal was to build a "Pilot-themed" experience that feels more like a game than a chore. I wanted to create a clean, vibrant UI that gives the user immediate satisfaction through high-energy colors, sound effects, and a streak system that encourages them to keep playing.
 
 #### The Objective
 
-GeoWiz is built for casual learners and geography enthusiasts. It challenges users to identify world capitals, continents, and flags. By incorporating a "Pilot Name" entry system, I aimed to personalize the experience, making the user feel like they are embarking on a global flight rather than just clicking buttons on a screen.
+* GeoWiz is built for casual learners and geography enthusiasts. It challenges users to identify world capitals, continents, and flags. By incorporating a "Pilot Name" entry system, I aimed to personalize the experience, making the user feel like they are embarking on a global flight rather than just clicking buttons on a screen.
 
 #### Personal Growth
 
-This project was a significant milestone in my coding journey. It allowed me to move beyond static HTML and CSS into the world of JavaScript logic. Key challenges I overcame included:
+* This project was a significant milestone in my coding journey. It allowed me to move beyond static HTML and CSS into the world of JavaScript logic. Key challenges I overcame included:
 
-##### Dynamic UI: Learning how to hide and show sections based on user interaction without reloading the page.
+* Dynamic UI: Learning how to hide and show sections based on user interaction without reloading the page.
 
-##### Array Management: Organizing a large library of questions and ensuring they display correctly with their corresponding images.
+* Array Management: Organizing a large library of questions and ensuring they display correctly with their corresponding images.
 
-##### UX Polish: Fine-tuning the "feel" of the game—ensuring buttons are large enough for mobile users and that feedback (correct/incorrect) is clear and instantaneous.
+* UX Polish: Fine-tuning the "feel" of the game—ensuring buttons are large enough for mobile users and that feedback (correct/incorrect) is clear and instantaneous.
 
 
 ## User Experience (UX)
 
 ### Project Goals
 
-My main objective for GeoWiz was to bridge the gap between education and entertainment, creating a tool that feels more like a game than a test.
+* My main objective for GeoWiz was to bridge the gap between education and entertainment, creating a tool that feels more like a game than a test.
 
 #### User Experience Goals
 
@@ -74,17 +75,17 @@ My main objective for GeoWiz was to bridge the gap between education and enterta
 
 ### User Stories
 
-As a first-time visitor, I want to easily understand the rules so I can play without confusion.
+* As a first-time visitor, I want to easily understand the rules so I can play without confusion.
 
 <img width="134" height="45" alt="Screenshot 2025-12-30 at 18 29 13" src="https://github.com/user-attachments/assets/d8335e6a-97e7-41ef-be09-e3a8af7c2a39" />
 <img width="284" height="164" alt="Screenshot 2025-12-30 at 18 29 30" src="https://github.com/user-attachments/assets/932d69fa-594d-4da3-b5b6-eaa0941e9b21" />
 
-As a player, I want to know immediately if my answer was right or wrong through colors and sounds.
+* As a player, I want to know immediately if my answer was right or wrong through colors and sounds.
 
 <img width="1728" height="964" alt="Screenshot 2025-12-30 at 19 18 34" src="https://github.com/user-attachments/assets/4c27773f-1f0f-4722-bc8e-a3fccda08026" />
 <img width="1728" height="966" alt="Screenshot 2025-12-30 at 19 19 24" src="https://github.com/user-attachments/assets/b1f25e04-703f-4915-b7bf-6e51eb420b09" />
 
-As a competitive player, I want to see my final score so I can try to beat it next time.
+* As a competitive player, I want to see my final score so I can try to beat it next time.
 
 <img width="1728" height="961" alt="Screenshot 2025-12-30 at 19 25 53" src="https://github.com/user-attachments/assets/c098cfaf-cea6-482f-8c5d-ec4fce981e31" />
 
@@ -170,13 +171,13 @@ Audio Feedback: Distinct sounds for correct and incorrect answers to provide a m
 
 ## Technologies Used
 
-HTML5: For the structured content of the site.
+* HTML5: For the structured content of the site.
 
-CSS3: For custom styling, animations, and responsiveness.
+* CSS3: For custom styling, animations, and responsiveness.
 
-JavaScript: To handle the game logic, scoring, and DOM manipulation.
+* JavaScript: To handle the game logic, scoring, and DOM manipulation.
 
-GitHub: For version control and hosting the live site via GitHub Pages.
+* GitHub: For version control and hosting the live site via GitHub Pages.
 
 
 ## Testing
@@ -211,50 +212,50 @@ Edge Case Testing: Tried to start the game without a name; the system correctly 
 <img width="1503" height="882" alt="Screenshot 2025-12-30 at 23 44 21" src="https://github.com/user-attachments/assets/abc2c0d5-f7a8-4bd6-8e7e-386e91e9d1c2" />
 
 ## Deployment
-The project was deployed using GitHub Pages.
+* The project was deployed using GitHub Pages.
 
 <img width="55" height="48" alt="Screenshot 2025-12-31 at 01 17 01" src="https://github.com/user-attachments/assets/03755714-f21f-4856-9a2b-6966c2c40de7" />
 
-Log in to GitHub and locate the repository.
+* Log in to GitHub and locate the repository.
 
 <img width="398" height="625" alt="Screenshot 2025-12-31 at 01 02 10" src="https://github.com/user-attachments/assets/f85d942f-1c90-4fd4-830b-55ef9d81afed" />
 <img width="140" height="33" alt="Screenshot 2025-12-31 at 01 03 18" src="https://github.com/user-attachments/assets/515a2614-5bbb-4dc6-aed9-95bc2e31a4aa" />
 
-Navigate to 'Settings'.
+* Navigate to 'Settings'.
 
 <img width="116" height="41" alt="Screenshot 2025-12-31 at 01 03 51" src="https://github.com/user-attachments/assets/34fb8383-ffe9-4dbe-ab1c-a61683338912" />
 
-Select 'Pages' from the sidebar.
+* Select 'Pages' from the sidebar.
 
 <img width="90" height="36" alt="Screenshot 2025-12-31 at 01 04 07" src="https://github.com/user-attachments/assets/703141ae-20c4-4992-b1a0-c1002dc52472" />
 
-Under 'Branch', select 'main' and click 'Save'.
+* Under 'Branch', select 'main' and click 'Save'.
 
 <img width="761" height="120" alt="Screenshot 2025-12-31 at 01 04 38" src="https://github.com/user-attachments/assets/8a29c577-c44f-4d3b-9971-f2bdef420452" />
 
-The live link can be found at the top of the Pages section.
+* The live link can be found at the top of the Pages section.
 
 <img width="788" height="179" alt="Screenshot 2025-12-31 at 01 11 29" src="https://github.com/user-attachments/assets/225720d3-a550-4833-8d93-56bda3fb77d0" />
 
 ## Credits
-Images: Flag icons were sourced from [Pixabay](https://pixabay.com/)
+* Images: Flag icons were sourced from [Pixabay](https://pixabay.com/)
 
 <img width="242" height="240" alt="Screenshot 2025-12-31 at 01 35 04" src="https://github.com/user-attachments/assets/9d4cb8f7-5b90-4ef8-a41e-d61dd179a64a" />
 
-Audio: Sound effects were sourced from [Pixabay's Royalty-Free library](https://pixabay.com/music/)
+* Audio: Sound effects were sourced from [Pixabay's Royalty-Free library](https://pixabay.com/music/)
 
 <img width="242" height="240" alt="Screenshot 2025-12-31 at 01 35 04" src="https://github.com/user-attachments/assets/269e403a-c751-4f2f-ba89-fb299f028c13" />
 
-Code: Inspiration for the quiz logic came from course materials and course examples.
+* Code: Inspiration for the quiz logic came from course materials and course examples.
 
-fonts: 'Nunito' via [Google Fonts](https://fonts.google.com/)
+* fonts: 'Nunito' via [Google Fonts](https://fonts.google.com/)
 
 <img width="193" height="51" alt="Screenshot 2025-12-30 at 22 35 05" src="https://github.com/user-attachments/assets/48760970-d80f-4f27-b98b-58d526dc42cd" />
 
-Colour Scheme: Generated via [Coolors](Coolors.co)
+* Colour Scheme: Generated via [Coolors](Coolors.co)
 
 <img width="152" height="56" alt="Screenshot 2025-12-30 at 22 35 51" src="https://github.com/user-attachments/assets/065a90f5-a612-40b5-ac9e-d9cfff22230b" />
 
-Logo: Created using [Looka](https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE)
+* Logo: Created using [Looka](https://looka.com/branding-kit/?gad_source=1&gad_campaignid=11680001896&gbraid=0AAAAADNyhlj0eO0gGXVqqL_K8FYgHXAAD&gclid=EAIaIQobChMIsuyGwIjmkQMVWI9QBh2GTjqrEAAYASAAEgJz2PD_BwE)
 
 <img width="145" height="66" alt="Screenshot 2025-12-30 at 22 35 35" src="https://github.com/user-attachments/assets/eace1d72-d721-4f4b-9e09-47ea985cdb7a" />
