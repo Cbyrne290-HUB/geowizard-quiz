@@ -204,6 +204,9 @@ All code was passed through the [W3C Validator](https://validator.w3.org/), [(Ji
 * **script.js**
 <img width="1715" height="636" alt="Screenshot 2025-12-31 at 03 54 03" src="https://github.com/user-attachments/assets/21ca883f-a3f0-42ef-bfe9-070b07a34a76" />
 
+### Unfixed Bugs
+At the time of submission, there are no known bugs remaining in the project. All features (username validation, question shuffling, score tracking, and sound toggles) have been tested and are functioning as intended.
+
 ### Lighthouse Report
 I have tested my site on performance, accessibility, SEO and best practices on both mobile and laptop. on mobile I scored a (96) on performance and I scored a (100) on accessibility, SEO and best practices.
 I scored all (100's) on the laptops performace, accessibility, SEO and best practices. Overall this is nearly a perfect score on both mobile on laptop even with the room for improvement.
