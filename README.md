@@ -178,15 +178,18 @@ Validation: All code was passed through the W3C HTML, W3C CSS Validator and the 
 
 * **script.js**
 
+
 ### Lighthouse Report
 I have tested my site on performance, accessibility, SEO and best practices on both mobile and laptop. on mobile I scored a (96) on performance and I scored a (100) on accessibility, SEO and best practices.
 I scored all (100's) on the laptops performace, accessibility, SEO and best practices. Overall this is nearly a perfect score on both mobile on laptop even with the room for improvement.
+<img width="1709" height="849" alt="Screenshot 2025-12-31 at 01 43 33" src="https://github.com/user-attachments/assets/34f82d38-7501-4265-a6b6-b3cfdb914e8a" />
+<img width="1708" height="850" alt="Screenshot 2025-12-31 at 01 43 45" src="https://github.com/user-attachments/assets/7e7c1f1d-d7f4-4137-a67d-40a652bde0bc" />
 
-Browser Compatibility: Tested the game on Google Chrome and Safari.
+### Browser Compatibility: Tested the game on Google Chrome and Safari.
 <img width="1728" height="1044" alt="Screenshot 2025-12-30 at 23 50 54" src="https://github.com/user-attachments/assets/7a39274b-f9c7-4fe2-9fef-6d37e3fe87f2" />
 <img width="1728" height="1038" alt="Screenshot 2025-12-30 at 23 52 16" src="https://github.com/user-attachments/assets/e15a0a9e-7093-4481-8823-7ee884b274ab" />
 
-Device Testing: Verified that the buttons and images scale correctly on all devices like the imac,macbook,ipad and iphone all came back with images and buttons working perfectly. 
+### Device Testing: Verified that the buttons and images scale correctly on all devices like the imac,macbook,ipad and iphone all came back with images and buttons working perfectly. 
 <img width="1368" height="736" alt="Screenshot 2025-12-30 at 18 24 56" src="https://github.com/user-attachments/assets/f888a0e3-71b1-4b7c-abc7-c4534d04ec4c" />
 Edge Case Testing: Tried to start the game without a name; the system correctly blocked this and alerted me.
 <img width="1503" height="882" alt="Screenshot 2025-12-30 at 23 44 21" src="https://github.com/user-attachments/assets/abc2c0d5-f7a8-4bd6-8e7e-386e91e9d1c2" />
