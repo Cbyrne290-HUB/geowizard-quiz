@@ -183,6 +183,7 @@ Edge Case Testing: Tried to start the game without a name; the system correctly 
 
 ## Deployment
 The project was deployed using GitHub Pages.
+
 <img width="55" height="48" alt="Screenshot 2025-12-31 at 01 17 01" src="https://github.com/user-attachments/assets/03755714-f21f-4856-9a2b-6966c2c40de7" />
 
 Log in to GitHub and locate the repository.
@@ -191,11 +192,19 @@ Log in to GitHub and locate the repository.
 
 Navigate to 'Settings'.
 
+<img width="116" height="41" alt="Screenshot 2025-12-31 at 01 03 51" src="https://github.com/user-attachments/assets/34fb8383-ffe9-4dbe-ab1c-a61683338912" />
+
 Select 'Pages' from the sidebar.
+
+<img width="90" height="36" alt="Screenshot 2025-12-31 at 01 04 07" src="https://github.com/user-attachments/assets/703141ae-20c4-4992-b1a0-c1002dc52472" />
 
 Under 'Branch', select 'main' and click 'Save'.
 
+<img width="761" height="120" alt="Screenshot 2025-12-31 at 01 04 38" src="https://github.com/user-attachments/assets/8a29c577-c44f-4d3b-9971-f2bdef420452" />
+
 The live link can be found at the top of the Pages section.
+
+<img width="788" height="179" alt="Screenshot 2025-12-31 at 01 11 29" src="https://github.com/user-attachments/assets/225720d3-a550-4833-8d93-56bda3fb77d0" />
 
 ## Credits
 Images: Flag icons were sourced from Pixabay.
