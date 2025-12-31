@@ -193,7 +193,7 @@ The Fix: I refactored the code to use the modern .forEach() method. This approac
 The Result: After refactoring, the script passed with 0 errors and 0 warnings, ensuring the game is stable and follows modern ES6 best practices.
 
 ### Validation: 
-All code was passed through the [W3C Validator](https://validator.w3.org/), [(Jigsaw)Validator](https://jigsaw.w3.org/css-validator/)and the [JSHint Validator](https://jshint.com/)to ensure no major errors.
+All code was passed through the [W3C Validator](https://validator.w3.org/), [(Jigsaw)Validator](https://jigsaw.w3.org/css-validator/) and the [JSHint Validator](https://jshint.com/) to ensure no major errors.
 
 * **index.html**
 <img width="1498" height="630" alt="Screenshot 2025-12-31 at 00 51 46" src="https://github.com/user-attachments/assets/a42b78bf-3a09-4bee-879d-77d9cdad7db0" />
