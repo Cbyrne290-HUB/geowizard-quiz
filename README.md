@@ -211,7 +211,7 @@ At the time of submission, there are no known bugs remaining in the project. All
 
 During development and testing, the following issues were identified and resolved:
 
-HTML Validation Error: The <img> tag for the flags initially had an empty src attribute, causing a W3C validation error.
+HTML Validation Error: The tag for the flags initially had an empty src attribute, causing a W3C validation error.
 
 Fix: Implemented a Base64 transparent pixel placeholder which is replaced by the JavaScript when the game starts.
 
