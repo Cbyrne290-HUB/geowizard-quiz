@@ -182,6 +182,16 @@ Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 ## Testing
 I performed manual testing throughout the development process: "During testing, I discovered a bug where the flag images were stretching on small screens. I fixed this by applying max-width: 100% and height: auto in the CSS to ensure the flags always maintain their correct proportions."
 
+### JavaScript Validation & Debugging
+
+During the initial testing phase, the JavaScript code was run through JSHint. While the logic was functional, the validator identified a warning regarding "Functions declared within loops" inside the showQuestion function.
+
+The Issue: Using a standard for loop to assign click events to buttons was flagged because defining functions inside a loop can lead to memory issues and "confusing semantics" where variables might not be captured correctly.
+
+The Fix: I refactored the code to use the modern .forEach() method. This approach creates a unique scope for each button, ensuring the correct question index is passed to the selectAnswer function every time.
+
+The Result: After refactoring, the script passed with 0 errors and 0 warnings, ensuring the game is stable and follows modern ES6 best practices.
+
 ### Validation: 
 All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaScript Validator to ensure no major errors.
 
@@ -192,6 +202,7 @@ All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaS
 <img width="1471" height="211" alt="Screenshot 2025-12-30 at 23 56 56" src="https://github.com/user-attachments/assets/e156fc82-0943-4567-8980-d5d7e0fcfb5f" />
 
 * **script.js**
+<img width="1715" height="636" alt="Screenshot 2025-12-31 at 03 54 03" src="https://github.com/user-attachments/assets/21ca883f-a3f0-42ef-bfe9-070b07a34a76" />
 
 ### Lighthouse Report
 I have tested my site on performance, accessibility, SEO and best practices on both mobile and laptop. on mobile I scored a (96) on performance and I scored a (100) on accessibility, SEO and best practices.
