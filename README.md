@@ -207,6 +207,22 @@ All code was passed through the [W3C Validator](https://validator.w3.org/), [(Ji
 ### Unfixed Bugs
 At the time of submission, there are no known bugs remaining in the project. All features (username validation, question shuffling, score tracking, and sound toggles) have been tested and are functioning as intended.
 
+#### Resolved Bugs
+
+During development and testing, the following issues were identified and resolved:
+
+HTML Validation Error: The <img> tag for the flags initially had an empty src attribute, causing a W3C validation error.
+
+Fix: Implemented a Base64 transparent pixel placeholder which is replaced by the JavaScript when the game starts.
+
+JavaScript Warning: JSHint flagged a warning regarding "Functions declared within loops."
+
+Fix: Refactored the button assignment logic from a standard for loop to a .forEach() method to ensure proper variable scoping.
+
+Centering Issues: The game container was off-center on larger screens during early CSS drafts.
+
+Fix: Applied margin: 0 auto; and a Flexbox parent container to ensure the UI remains centered across all device widths.
+
 ### Lighthouse Report
 I have tested my site on performance, accessibility, SEO and best practices on both mobile and laptop. on mobile I scored a (96) on performance and I scored a (100) on accessibility, SEO and best practices.
 I scored all (100's) on the laptops performace, accessibility, SEO and best practices. Overall this is nearly a perfect score on both mobile on laptop even with the room for improvement.
