@@ -165,7 +165,7 @@ Text/Overlays,Off-White,#ffffff,High-readability text and glass-morphism panels.
 <img width="123" height="42" alt="Screenshot 2025-12-30 at 19 34 40" src="https://github.com/user-attachments/assets/42ab6dab-bf4e-4ace-9047-73e26de20de7" />
 
 #### Future Features 
-* "In a future version of GeoWiz, I plan to add a global leaderboard using a database so players can compare their flight scores with others around the world."
+* "In a future version of GeoWiz, I plan to add more questions and a global leaderboard using a database so players can compare their flight scores with others around the world."
 
 
 ## Technologies Used
