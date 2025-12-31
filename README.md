@@ -17,7 +17,7 @@ GeoWiz is an interactive, browser-based quiz designed to test a user's knowledge
 
 ## Project Overview
 
-    - Welcome to GeoWiz, an interactive geography quiz designed to make learning about the world engaging and fun.
+* Welcome to GeoWiz, an interactive geography quiz designed to make learning about the world engaging and fun.**
 
 <img width="1503" height="887" alt="Screenshot 2025-12-30 at 18 19 29" src="https://github.com/user-attachments/assets/f9e9ee96-73e1-4ea4-a4f7-bb5e69f612d7" />
 
