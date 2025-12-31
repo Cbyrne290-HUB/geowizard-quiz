@@ -125,6 +125,20 @@ I designed the GeoWiz logo using [Looka](#https://looka.com/branding-kit/?gad_so
 ### Imagery
 The imagery in GeoWiz was carefully selected to provide an immersive and educational experience. I used high-quality PNG flag icons to ensure that the primary visual focus—the flags—remains crisp and professional on all screen sizes. To reinforce the "Pilot" theme, I included subtle icon elements like the fire emoji for streaks, which gives the user a sense of "momentum" and fun. I also utilized a "glass-morphism" effect on the main containers, which uses transparency to allow the vibrant background colors to peek through. This creates a layered, modern look that makes the game feel like a high-end mobile application rather than a basic website.
 
+### Wireframes
+
+* **Landing page**
+
+* **Laptop**
+<img width="721" height="532" alt="Screenshot 2025-12-31 at 02 41 43" src="https://github.com/user-attachments/assets/7bd72615-3847-4da0-959c-139fb87d1889" />
+
+* **Tablet**
+<img width="586" height="795" alt="Screenshot 2025-12-31 at 02 47 40" src="https://github.com/user-attachments/assets/f3a9ac5f-2ee6-4f9b-97f9-a7fb054996c3" />
+
+* **Mobile**
+<img width="289" height="597" alt="Screenshot 2025-12-31 at 02 53 40" src="https://github.com/user-attachments/assets/8132c326-966a-444a-883e-fe3ad065f651" />
+
+
 ## Features
 
 #### Interactive Pilot Console (Username Entry)
@@ -178,7 +192,6 @@ All code was passed through the W3C HTML, W3C CSS Validator and the JSHint JavaS
 <img width="1471" height="211" alt="Screenshot 2025-12-30 at 23 56 56" src="https://github.com/user-attachments/assets/e156fc82-0943-4567-8980-d5d7e0fcfb5f" />
 
 * **script.js**
-
 
 ### Lighthouse Report
 I have tested my site on performance, accessibility, SEO and best practices on both mobile and laptop. on mobile I scored a (96) on performance and I scored a (100) on accessibility, SEO and best practices.
